@@ -78,7 +78,7 @@ git init
 git add .
 git commit -m "initial commit"
 git branch -M main
-git remote add origin https://github.com/Dessy71/invoice-gh.git
+git remote add origin https://github.com/Dessy71/ghana-invoice.git
 git push -u origin main
 # Then enable Pages in repo Settings → Pages → Deploy from branch: main
 ```
@@ -176,8 +176,7 @@ git commit -m "add: your feature description"
 git push origin feature/your-feature-name
 ```
 
-Please keep the single-file architecture for the v1 offline version. The Firebase/authenticated version can have a more complex structure.
-
+Please keep the single-file architecture for the v1 offline version. 
 ---
 
 ## License
